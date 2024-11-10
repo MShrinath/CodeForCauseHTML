@@ -1,3 +1,2 @@
 # CodeForCauseHTML
-https://hackathoncodeforcauseteam36.netlify.app/
-https://t36cfc.web.app/
+https://t36cfc.netlify.app/
